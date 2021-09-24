@@ -35,3 +35,16 @@ body{
     background-size: cover;
     padding: 20px 0;
 }
+
+.produto-semana{
+    background: #fff;
+}
+
+.para-menor{
+    padding: 5% 20%;
+}
+
+.circular{
+    width: 9rem;
+    height: 9rem;
+}
