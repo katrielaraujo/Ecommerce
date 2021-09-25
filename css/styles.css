@@ -52,6 +52,7 @@ body{
 
 .avaliacao{
     background-color: #e9edf6;
+    margin-bottom: 0%;
 }
 .card-imagem{
     width: 100%;
@@ -61,4 +62,9 @@ body{
 
 .card-color{
     background-color: #fff;
+}
+
+.footer-color{
+    background-color: #222933;
+    padding-top: 70px;
 }
